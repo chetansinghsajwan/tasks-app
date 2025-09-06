@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "taskhub",
+  "outputfilename": "tasks-app",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Chetan Singh Sajwan",
+    "email": "76040441+chetansinghsajwan@users.noreply.github.com"
+  }
+}
